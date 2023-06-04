@@ -1,26 +1,27 @@
 # Student Management System
  Developed by: Muddsar Qayyum<br>
-YouTube Channel: Madu Web Tech
-Website: https://maduwebtech.com
+YouTube Channel: Madu Web Tech<br>
+Website: https://maduwebtech.com<br>
 
-Project Title: Student Management System
-Languages:
+#Project Title:<br>
+Student Management System
+#Languages:
 1.	HTML
 2.	CSS
 3.	Bootstrap
 4.	JavaScript
 5.	PHP MySQL
-Software:
+#Software:
 1.	Sublime Text 4
 2.	XAMPP Server
-Functional Requirements:
+#Functional Requirements:
 •	Users can log in and log out.
 •	Users can add, edit, delete, and view student profiles.
 •	Users can add, edit, delete, and view courses.
 •	Users can add, edit, delete, and view teachers.
 •	Users can search for students and view their complete profiles and fee records.
 •	Users can submit student fees and track fee records.
-Installation Instructions:
+#Installation Instructions:
 1.	Download and install the necessary software:
 •	XAMPP
 •	Sublime Text

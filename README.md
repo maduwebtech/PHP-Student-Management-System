@@ -1,5 +1,5 @@
 # Student Management System
- Developed by: Muddsar Qayyum
+ Developed by: Muddsar Qayyum<br>
 YouTube Channel: Madu Web Tech
 Website: https://maduwebtech.com
 
